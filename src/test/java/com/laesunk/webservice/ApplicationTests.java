@@ -1,4 +1,4 @@
-package com.laesunk.springwebservice;
+package com.laesunk.webservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
